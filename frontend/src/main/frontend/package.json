@@ -5,7 +5,7 @@
   "angular-cli": {},
   "scripts": {
     "ng": "ng",
-    "start": "ng serve --proxy-config proxy.conf.json",
+    "start": "ng serve",
     "test": "ng test",
     "lint": "tslint \"src/**/*.ts\"",
     "pree2e": "webdriver-manager update",
@@ -22,6 +22,8 @@
     "@angular/platform-browser": "^2.4.0",
     "@angular/platform-browser-dynamic": "^2.4.0",
     "@angular/router": "^3.4.0",
+    "mutationobserver-shim": "0.3.2",
+    "@webcomponents/custom-elements": "1.0.0-alpha.3",
     "clarity-angular": "^0.8.7",
     "clarity-icons": "^0.8.7",
     "clarity-ui": "^0.8.7",
