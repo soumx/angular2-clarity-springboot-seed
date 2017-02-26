@@ -6,6 +6,8 @@ Install maven (latest 3.3). Ensure your PATH variable has the maven installation
 
 Install Java 8 (ensure your JAVA_HOME is pointintg to Java 8 Contents/Home) 
 
+You also need npm and node.js .. use Homebrew to install node/npm
+
 git clone the project in a directory. 
 
 cd directory/angular2-clarity-springboot-seed
