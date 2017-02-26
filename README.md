@@ -34,3 +34,4 @@ This is just a seed project. Use this to kick start your development with Clarit
 Right now this project uses Clarity Navigation. So there's a header, a side Navigation block and the navigation content area.
 
 you can fill in the side-navigation using Clarity component tree-view. 
+More on Clarity : https://vmware.github.io/clarity/ 
