@@ -1,5 +1,5 @@
 # Angular2 With Clarity Frontend with Springboot Backend Seed Project
-A basic project that includes a frontend with Angular2 + Clarity framework with Spring boot as the backend
+A basic project that includes a frontend ( Angular2 + Clarity framework) and a backend (Spring boot)
 
 #Installation
 Install maven (latest 3.3). Ensure your PATH variable has the maven installation path included
