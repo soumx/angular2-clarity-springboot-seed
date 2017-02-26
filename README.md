@@ -7,16 +7,23 @@ Install maven (latest 3.3). Ensure your PATH variable has the maven installation
 Install Java 8 (ensure your JAVA_HOME is pointintg to Java 8 Contents/Home) 
 
 git clone the project in a directory. 
+
 cd directory/angular2-clarity-springboot-seed
+
 $ mvn clean install
+
 everything should build
 
 cd into backend : 
+
 $ mvn spring-boot:run
+
 this will start the backend server
 
 in another terminal cd into frontend/src/main/frontend
+
 $ npm start
+
 this will start the angular-cli server running @port 4200
 
 in a browser localhost:4200 - will show the Angular2-Clarity UI 
