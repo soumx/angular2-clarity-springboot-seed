@@ -27,3 +27,10 @@ $ npm start
 this will start the angular-cli server running @port 4200
 
 in a browser localhost:4200 - will show the Angular2-Clarity UI 
+
+#Development
+This is just a seed project. Use this to kick start your development with Clarity/Angular2 while use SpringBoot serving as the REST backend
+
+Right now this project uses Clarity Navigation. So there's a header, a side Navigation block and the navigation content area.
+
+you can fill in the side-navigation using Clarity component tree-view. 
